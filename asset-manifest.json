@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myFlix-ReduxClientRedo/static/css/main.073c9b0a.css",
+    "main.js": "/myFlix-ReduxClientRedo/static/js/main.2e649fca.js",
+    "static/js/787.03cab000.chunk.js": "/myFlix-ReduxClientRedo/static/js/787.03cab000.chunk.js",
+    "service-worker.js": "/myFlix-ReduxClientRedo/service-worker.js",
+    "static/media/logo.svg": "/myFlix-ReduxClientRedo/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/myFlix-ReduxClientRedo/index.html",
+    "main.073c9b0a.css.map": "/myFlix-ReduxClientRedo/static/css/main.073c9b0a.css.map",
+    "main.2e649fca.js.map": "/myFlix-ReduxClientRedo/static/js/main.2e649fca.js.map",
+    "787.03cab000.chunk.js.map": "/myFlix-ReduxClientRedo/static/js/787.03cab000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e649fca.js"
+  ]
+}
