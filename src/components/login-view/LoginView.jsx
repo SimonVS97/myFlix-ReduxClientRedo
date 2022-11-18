@@ -110,7 +110,7 @@ function LoginView(props) {
 export default connect(null, { setUser })(LoginView);
 
 
-LoginView.PropTypes = {
+LoginView.propTypes = {
   onRegisterClick: PropTypes.func.isRequired,
   onLoggedIn: PropTypes.func.isRequired
 }; 

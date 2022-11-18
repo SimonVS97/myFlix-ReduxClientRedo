@@ -41,7 +41,7 @@ export class GenreView extends React.Component {
             <Card.Body>
               <Card.Title>{genre.Name}</Card.Title>
               <Card.Text>{genre.Description}</Card.Text>
-              <Button variant='outline-secondary' onClick={() => { history.back() }}>Back</Button>
+              <Button variant='outline-secondary' onClick={() => { window.history.back() }}>Back</Button>
               <Button variant='outline-secondary' onClick={() => this.showMovies()}>Some movies of this genre</Button>
             </Card.Body>
           </Card>
