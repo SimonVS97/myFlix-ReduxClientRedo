@@ -1,0 +1,39 @@
+.buttonAddToFav {
+  width: 100%;
+  max-width: 400px;
+}
+
+.buttonBack {
+  width: 100%;
+  max-width: 400px;
+}
+
+.movie-img {
+  max-height: auto;
+  max-width: 400px;
+}
+
+.imgWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.cardTitle {
+  margin: auto;
+  text-align: center;
+}
+
+.cardDes {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.directorDes {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.genreDes {
+  padding-left: 5%;
+  padding-right: 5%;
+}
